@@ -1,0 +1,4 @@
+com\ck\service\StudentService.class
+com\ck\service\StudentServiceImpl.class
+com\ck\dao\StudentDao.class
+com\ck\domain\Student.class
